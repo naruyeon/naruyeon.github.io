@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Research Experience
       # Date format for experience
@@ -57,7 +58,7 @@ sections:
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
-          company_logo: org-gc
+          company_logo: ucf
           location: Orlando, FL, USA
           date_start: '2021-01-01'
           date_end: ''
