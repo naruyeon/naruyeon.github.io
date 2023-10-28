@@ -57,14 +57,14 @@ sections:
         - title: Graduate Research Assistant
           company: University of Central Florida
           company_url: ''
-          company_logo: msft
+          company_logo: org-gc
           location: Orlando, FL, USA
           date_start: '2021-01-01'
           date_end: ''
         - title: PhD Research Intern
           company: Microsoft Research
           company_url: ''
-          company_logo: ucf
+          company_logo: org-gc
           location: Redmond, WA
           date_start: '2023-05-01'
           date_end: '2023-08-01'
