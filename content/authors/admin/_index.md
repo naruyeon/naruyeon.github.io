@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tiffany D. Do (Diễm Đỗ)
+title: Tiffany D. Do
 
 
 # Full name (for SEO)
@@ -26,20 +26,21 @@ organizations:
 interests:
   - Intelligent Virtual Agents
   - Human-Centered AI
-  - Virtual Reality/Augmented Reality
+  - Virtual Reality
+  - Augmented Reality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: University of Central Florida
       year: ABD
-    - course: MS in Computer Science
+    - course: M.S. in Computer Science
       institution: University of Texas at Dallas
       year: 2019
-    - course: BS in Computer Science
+    - course: B.S. in Computer Science
       institution: University of Texas at Dallas
-      year: 2008
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
