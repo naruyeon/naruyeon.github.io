@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Tiffany D. Do
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tiffany D.
+last_name: Do
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
