@@ -64,7 +64,7 @@ sections:
         - title: PhD Research Intern
           company: Microsoft Research
           company_url: ''
-          company_logo: org-gc
+          company_logo: msft
           location: Redmond, WA
           date_start: '2023-05-01'
           date_end: '2023-08-01'
