@@ -52,7 +52,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/zyrcant
     label: Follow me on Twitter
     display:
       header: true
