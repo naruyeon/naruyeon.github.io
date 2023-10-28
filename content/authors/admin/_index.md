@@ -22,14 +22,11 @@ organizations:
   - name: University of Central Florida
     url: https://www.cs.ucf.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Intelligent Virtual Agents
+  - Human-Centered AI
+  - Virtual Reality/Augmented Reality
 
 # Education to show in About widget
 education:
@@ -42,8 +39,7 @@ education:
       year: 2019
     - course: BS in Computer Science
       institution: University of Texas at Dallas
-      year: 2018
-
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
